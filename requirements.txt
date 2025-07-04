@@ -1,0 +1,5 @@
+transformers>=4.10.0
+datasets
+scikit-learn
+pandas
+torch
